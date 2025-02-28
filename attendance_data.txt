@@ -1,0 +1,6 @@
+1,Alice,10
+1,2023-10-01,Present,null
+2,Bob,10
+2,2023-10-01,Absent,Sick
+3,Kevin,10
+3,2023-10-01,Present,Interview
